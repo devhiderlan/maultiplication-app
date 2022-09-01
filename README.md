@@ -1,1 +1,1 @@
-# maultiplication-app
+# multiplication-app
