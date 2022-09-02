@@ -1,6 +1,7 @@
 body {
   align-items: center;
-  background-color: blanchedalmond;
+  background: rgb(34,193,195);
+  background: linear-gradient(304deg, rgba(34,193,195,1) 0%, rgba(138,43,226,1) 100%);
   display: flex;
   font-family: cursive;
   height: 100vh;
@@ -10,7 +11,7 @@ body {
 }
 
 h1{
-  color: blueviolet;
+  color: #8a2be2;
   width: 85%;
   margin: 10px auto;
 }
@@ -42,7 +43,7 @@ h1{
 }
 
 .btn {
-  background-color: blueviolet;
+  background: linear-gradient(90deg, rgba(34,193,195,1) 0%, rgba(138,43,226,1) 100%);
   border: none;
   border-radius: 15px;
   box-shadow: 0 3px 4px rgba(0, 0, 0, .4);
