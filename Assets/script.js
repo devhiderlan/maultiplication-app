@@ -13,7 +13,7 @@ if (!score) {
 }
 
 scoreEl.innerText = `score: ${score}`
-question.innerText = `Whats is ${num1} multiply by ${num2} ?`
+question.innerText = `What is ${num1} multiply by ${num2} ?`
 
 const correctAnswer = num1 * num2;
 
